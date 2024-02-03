@@ -1,0 +1,40 @@
+.productivity {
+  text-decoration: none;
+  align-items: center;
+  display: flex;
+}
+
+.productivity1 {
+  padding: 30px;
+  text-decoration: none;
+}
+.productivity1 img {
+  height: auto;
+  object-fit: contain;
+  background-color: none;
+  color: none;
+}
+.productivity2 {
+  padding: 30px;
+  text-decoration: none;
+}
+.productivity2 h1 {
+  width: 80%;
+  font-size: 40px;
+  line-height: 35px;
+  font-weight: 700;
+}
+.productivity2 a {
+  display: block;
+  color: cyan;
+  text-decoration: underline;
+  padding-top: 5px;
+}
+
+.productivity2 p {
+  padding: 20px 0;
+  font-size: 20px;
+  text-decoration: none;
+  background-color: none;
+  letter-spacing: 1pt;
+}

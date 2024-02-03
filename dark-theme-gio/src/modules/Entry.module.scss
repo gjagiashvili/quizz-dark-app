@@ -1,0 +1,41 @@
+.introContainer {
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+  align-items: center;
+  text-align: center;
+}
+.emailButton:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+a {
+  margin-right: 110px;
+}
+nav {
+  align-items: center;
+  padding-top: 75px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logoImg {
+  margin-top: 35px;
+  margin-left: 110px;
+}
+.introContainer p {
+  font-size: 25px;
+  margin-bottom: 40px;
+  width: 60%;
+  line-height: 45px;
+}
+.introContainer h1 {
+  width: 80%;
+  font-size: 40px;
+  line-height: 80px;
+  margin: 60px 0;
+}
+
+.introContainer button {
+  margin-bottom: 240px;
+}
